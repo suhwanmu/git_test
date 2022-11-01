@@ -5,3 +5,6 @@ bbbbbbbbb
 
 
 trans crlf
+
+
+crlf false, crlf file
