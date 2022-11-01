@@ -5,3 +5,5 @@ sssssssss
 2222222222
 
 trans to crlf
+
+pull autocrlf true
