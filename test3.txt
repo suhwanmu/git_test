@@ -8,3 +8,5 @@ trans crlf
 
 
 crlf false, crlf file
+
+crlf true
