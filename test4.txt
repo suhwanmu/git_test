@@ -7,3 +7,5 @@ crlf?
 false~
 
 pull true
+
+editer crlf , but true, pull true
