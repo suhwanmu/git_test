@@ -13,3 +13,5 @@ editer crlf , but true, pull true
 false gogo
 
 input gogo
+
+input22 gogo
